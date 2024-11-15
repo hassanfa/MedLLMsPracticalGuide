@@ -163,7 +163,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JAMIA, 2024.5**] **Internist.ai 7b** Impact of high-quality, mixed-domain data on the performance of medical language models [paper](https://academic.oup.com/jamia/article-abstract/31/9/1875/7680487?redirectedFrom=fulltext) [Model](https://huggingface.co/internistai/base-7b-v0.2)
 * [**Huggingface, 2024.5**] **OpenBioLLM-70b**: Advancing Open-source Large Language Models in Medical Domain [model](https://huggingface.co/aaditya/Llama3-OpenBioLLM-70B)
 * [**Huggingface, 2024.5**] **MedLllama3** [model](https://huggingface.co/ProbeMedicalYonseiMAILab/medllama3-v20)
-* [**Arxiv, 2024.5**] **Aloe**: A Family of Fine-tuned Open Healthcare LLMs. [paper](https://arxiv.org/abs/2405.01886) [Model](https://huggingface.co/HPAI-BSC/Llama3-Aloe-8B-Alpha)
+* [**Arxiv, 2024.5**] **Aloe**: A Family of Fine-tuned Open Healthcare LLMs. [paper](https://arxiv.org/abs/2405.01886) [Model](https://huggingface.co/collections/HPAI-BSC/healthcare-llms-aloe-family-6701b6a777f7e874a2123363)
 * [**Arxiv, 2024.4**] **Med-Gemini** Capabilities of Gemini Models in Medicine. [paper](https://arxiv.org/pdf/2404.18416)
 * [**Arxiv, 2024.2**] **BioMistral** A Collection of Open-Source Pretrained Large Language Models for Medical Domains. [paper](https://arxiv.org/pdf/2402.10373)
 * [**Arxiv, 2023.12**] **From Beginner to Expert**: Modeling Medical Knowledge into General LLMs. [paper](https://arxiv.org/abs/2312.01040)
@@ -267,7 +267,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 <img src="img/Medical_LLM_evaluation.png" width="800px">
 </div>
 
-### Huggingface Leadboard
+### Huggingface Leaderboard
 * **Open Medical-LLM Leaderboard**: MedQA (USMLE), PubMedQA, MedMCQA, and subsets of MMLU related to medicine and biology.  [Leaderboard](https://huggingface.co/spaces/openlifescienceai/open_medical_llm_leaderboard)
 
 ### Generative Tasks
@@ -380,6 +380,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**Nature Medicine, 2022**] AI in health and medicine. [paper](https://www.nature.com/articles/s41591-021-01614-0)
 
 ### Clinical Coding
+* [**NEJM AI, 2024**] Large Language Models Are Poor Medical Coders — Benchmarking of Medical Code Querying. [paper](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
 * [**JMAI, 2023**] Applying large language model artificial intelligence for retina International Classification of Diseases (ICD) coding. [paper](https://jmai.amegroups.org/article/view/8198/html)
 * [**ClinicalNLP Workshop, 2022**] PLM-ICD: automatic ICD coding with pretrained language models. [paper](https://arxiv.org/abs/2207.05289) [code](https://github.com/MiuLab/PLM-ICD)
 
@@ -438,6 +439,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 
 
 ### Lack of Evaluation Benchmarks and Metrics
+* [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench) 
 * [**Arxiv, 2024**] GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI. [paper](https://arxiv.org/abs/2408.03361)
 * [**Arxiv, 2024**] Large Language Models in the Clinic: A Comprehensive Benchmark. [paper](https://arxiv.org/abs/2405.00716)
 * [**Nature Reviews Bioengineering, 2023**] Benchmarking medical large language models. [paper](https://www.nature.com/articles/s44222-023-00097-7)
@@ -480,6 +482,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 </div>
 
 ### Introduction of New Benchmarks
+* [**Blog, 2024.11**] SymptomCheck Bench. [blog](https://medask.tech/blogs/introducing-symptomcheck-bench/) [code](https://github.com/medaks/symptomcheck-bench) 
 * [**Arxiv, 2023.12**] Designing Guiding Principles for NLP for Healthcare: A Case Study of Maternal Health. [paper](https://arxiv.org/abs/2312.11803)
 * [**JCO CCI, 2023**] Natural language processing to automatically extract the presence and severity of esophagitis in notes of patients undergoing radiotherapy. [[paper]]( https://pubmed.ncbi.nlm.nih.gov/37506330/) [[code]]( https://github.com/AIM-Harvard/Eso_alpha)
 * [**JAMA ONC, 2023**] Use of Artificial Intelligence Chatbots for Cancer Treatment Information. [[paper]]( https://jamanetwork.com/journals/jamaoncology/fullarticle/2808731) [[code]]( https://github.com/AIM-Harvard/ChatGPT_NCCN)
