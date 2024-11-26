@@ -2,7 +2,7 @@ name: Update Fork
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # Runs every Monday at midnight UTC
+    - cron: '0 0 */2 * *' # Runs every 2nd day at midnight UTC
   workflow_dispatch:
 
 jobs:
