@@ -21,6 +21,7 @@
 This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs). 
 It's based on our survey paper: 
 
+> [Nature Reviews Bioengineering]
 > [A Survey of Large Language Models in Medicine: Progress, Application, and Challenge](https://arxiv.org/abs/2311.05112)
 
 > *Hongjian Zhou<sup>1,\*</sup>, Fenglin Liu<sup>1,\*</sup>, Boyang Gu<sup>2,\*</sup>, Xinyu Zou<sup>3,\*</sup>, Jinfa Huang<sup>4,\*</sup>, Jinge Wu<sup>5</sup>, Yiru Li<sup>6</sup>, Sam S. Chen<sup>7</sup>, Peilin Zhou<sup>8</sup>, Junling Liu<sup>9</sup>, Yining Hua<sup>10</sup>,
@@ -34,6 +35,9 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 <sup>9</sup>Alibaba, <sup>10</sup>Harvard T.H. Chan School of Public Health, <sup>11</sup>MIT, <sup>12</sup>Yale University, <sup>13</sup>Tencent, <sup>14</sup>Amazon*
 
 ##  📣 Update News
+[2025-01-20] 🎉🎉🎉 Big News! Our paper has been accepted by Nature Reviews Bioengineering and GitHub Repo has reached 1,300 🌟!
+
+<!--
 [2024-10-11] 🎉🎉🎉 Big News! Our repository has reached 1,000 🌟. Thank you to everyone who contributed.
 
 [2024-07-10] We have updated our [Version 6](https://arxiv.org/abs/2311.05112). Thank you all for your support!
@@ -45,8 +49,9 @@ David A. Clifton<sup>1,†</sup>.* (\*Core Contributors, †Corresponding Author
 [2024-02-04] 🍻🍻🍻 Cheers! Happy Chinese New Year! We have updated our [Version 3](https://arxiv.org/abs/2311.05112). Please check it out!
 
 [2023-12-11] We have updated our survey [Version 2](https://arxiv.org/abs/2311.05112). Please check it out!
+-->
 
-[2023-11-09] We have released the repository and survey [Version 1](https://arxiv.org/abs/2311.05112).
+[2023-11-09] We have released the repository and [survey](https://arxiv.org/abs/2311.05112).
 
 ## ⚡ Contributing
 
@@ -340,6 +345,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * **EU-ADR**: The EU-ADR corpus: annotated drugs, diseases, targets, and their relationships 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000573)
 
 #### Text Classification
+* **OpiateID**: Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts. [paper](https://arxiv.org/abs/2311.09066) [code](https://github.com/yangalan123/OpioidID)
 * **ADE**: Development of a benchmark corpus to support the automatic extraction of drug-related adverse effects from medical case reports 2012. [paper](https://www.sciencedirect.com/science/article/pii/S1532046412000615)
 * **2014 i2b2/UTHealth (Track 2)**: Annotating longitudinal clinical narratives for de-identification: The 2014 i2b2/UTHealth corpus 2015. [paper](https://www.sciencedirect.com/science/article/pii/S1532046415001823)
 * **HoC**: Automatic semantic classification of scientific literature according to the hallmarks of cancer 2016. [paper](https://academic.oup.com/bioinformatics/article-abstract/32/3/432/1743783)
@@ -375,6 +381,7 @@ This survey aims to provide insights into the opportunities and challenges of LL
 * [**JASN, 2023**] Retrieve, Summarize, and Verify: How Will ChatGPT Affect Information Seeking from the Medical Literature? [paper](https://journals.lww.com/jasn/fulltext/2023/08000/retrieve,_summarize,_and_verify__how_will_chatgpt.4.aspx)
 
 ### Medical Decision-Making
+* [**NAACL Findings, 2024**] Identifying Self-Disclosures of Use, Misuse and Addiction in Community-based Social Media Posts. [paper](https://arxiv.org/abs/2311.09066) [code](https://github.com/yangalan123/OpioidID)
 * [**Nature, 2023**] **NYUTron** Health system-scale language models are all-purpose prediction engines [paper](https://www.nature.com/articles/s41586-023-06160-y)
 * [**Arxiv, 2023**] Leveraging a medical knowledge graph into large language models for diagnosis prediction. [paper](https://arxiv.org/abs/2308.14321)
 * [**Arxiv, 2023**] ChatCAD+/Chatcad: Interactive computer-aided diagnosis on medical image using large language models. [paper](https://arxiv.org/abs/2302.07257) [code](https://github.com/zhaozh10/ChatCAD)
